@@ -8,17 +8,13 @@ My name is Vejdi aka Code Machine. I'm a Computer Engineer graduated from Gazi U
 - 📫 How to reach me: https://www.linkedin.com/in/vejdi-burak/, burakvejdin@gmail.com
 
 <details>
-  <summary>:bulb: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=scerraa">
-</details>
-<details>
   <summary>:bulb: Most Used Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scerraa&layout=compact">
 </details>
-
-
-
-
+<details>
+  <summary>:bulb: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=scerraa">
+</details>
 
 <!--
 [![Vejdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=scerraa)](https://github.com/anuraghazra/github-readme-stats)
