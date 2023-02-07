@@ -7,7 +7,8 @@ My name is Vejdi aka Code Machine. I'm a Computer Engineer graduated from Gazi U
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/vejdi-burak/, burakvejdin@gmail.com
 
-###Tech I Use
+### Tech I Use
+</br>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25" height="25">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25">
