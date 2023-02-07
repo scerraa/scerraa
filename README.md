@@ -7,9 +7,22 @@ My name is Vejdi aka Code Machine. I'm a Computer Engineer graduated from Gazi U
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/vejdi-burak/, burakvejdin@gmail.com
 
-[![Vejdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=scerraa)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:bulb: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=scerraa">
+</details>
+<details>
+  <summary>:bulb: Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scerraa&layout=compact">
+</details>
+
+
+
+
 
 <!--
+[![Vejdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=scerraa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scerraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **scerraa/scerraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
