@@ -1,6 +1,9 @@
 ### Hi there 👋
+<br />
 
 My name is Vejdi aka Code Machine. I'm a Computer Engineer graduated from Gazi University in  January 2022. I want to make a career in Full Stack Developing, I made several projects using C# and Java. Right now i am working on my front end side(learning JavaScript) 😄.
+<br />
+<br />
 
 
 - 🔭 I’m currently working on Spring Boot and JavaScript projects
@@ -14,6 +17,9 @@ My name is Vejdi aka Code Machine. I'm a Computer Engineer graduated from Gazi U
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/javascript/javascript.png" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25">
+
+<br />
+<br />
 
 <details>
   <summary>:bulb: Most Used Languages</summary>
